@@ -32,6 +32,11 @@
     "minimatch" "^3.1.2"
     "strip-json-comments" "^3.1.1"
 
+"@heroicons/react@^2.0.12":
+  "integrity" "sha512-FZxKh3i9aKIDxyALTgIpSF2t6V6/eZfF5mRu41QlwkX3Oxzecdm1u6dpft6PQGxIBwO7TKYWaMAYYL8mp/EaOg=="
+  "resolved" "https://registry.npmjs.org/@heroicons/react/-/react-2.0.12.tgz"
+  "version" "2.0.12"
+
 "@humanwhocodes/config-array@^0.10.5":
   "integrity" "sha512-MDl6D6sBsaV452/QSdX+4CXIjZhIcI0PELsxUjk4U828yd58vk3bTIvk/6w5FY+4hIy9sLW0sfrV7K7Kc++j/w=="
   "resolved" "https://registry.npmjs.org/@humanwhocodes/config-array/-/config-array-0.10.7.tgz"
@@ -100,6 +105,11 @@
   "version" "0.4.11"
   dependencies:
     "tslib" "^2.4.0"
+
+"@tailwindcss/container-queries@^0.1.0":
+  "integrity" "sha512-t1GeJ9P8ual160BvKy6Y1sG7bjChArMaK6iRXm3ZYjZGN2FTzmqb5ztsTDb9AsTSJD4NMHtsnaI2ielrXEk+hw=="
+  "resolved" "https://registry.npmjs.org/@tailwindcss/container-queries/-/container-queries-0.1.0.tgz"
+  "version" "0.1.0"
 
 "@types/json5@^0.0.29":
   "integrity" "sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ=="
@@ -1582,7 +1592,7 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@18.2.0":
+"react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^17.0.2 || ^18.0.0-0", "react@^18.2.0", "react@>= 16", "react@>= 16.8.0 || 17.x.x || ^18.0.0-0", "react@18.2.0":
   "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
   "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   "version" "18.2.0"
@@ -1789,7 +1799,7 @@
   "resolved" "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
   "version" "1.0.0"
 
-"tailwindcss@^3.2.0":
+"tailwindcss@^3.2.0", "tailwindcss@>=3.2.0":
   "integrity" "sha512-ARh/W0uH5UlWIC2nn02V0+5fyF0k6qZliyt4QYic2upOhPUE/Spu1EURNc9txJ3+4j8OEmdigqfDpw4d2tA4vA=="
   "resolved" "https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.2.0.tgz"
   "version" "3.2.0"
